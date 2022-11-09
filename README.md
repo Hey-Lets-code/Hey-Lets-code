@@ -10,7 +10,7 @@ __Eu sou uma Desenvolvedora Web Full-Stack, atualmente morando em Pernambuco, Br
 * 💫 Fun fact: Eu sou uma grande fã de The Last Of Us, mas a Nintendo sempre terá meu coração, pois Zelda sempre será o melhor jogo 😆
 ###### 📫 Me contate: 
 ###### [Linkedin](https://www.linkedin.com/in/leticia-augusta/1/) 
-###### Email: leticia.augusta.dev@gmail.com
+###### leticia.augusta.dev@gmail.com
 
 <!--
 **Hey-Lets-code/Hey-Lets-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
