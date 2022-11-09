@@ -1,7 +1,5 @@
 ## Olá, me chamo Letícia 👋
 __Eu sou uma Desenvolvedora Web Full-Stack, atualmente morando em Pernambuco, Brasil.__
-> Apaixonada por aprender a aprender, pessoas, comunicação e tecnologia. 
-Através da minha ótica neurodivergente e experiências no setor comercial, possuo um olhar criterioso do cliente, diante disso vejo a oportunidade de agregar valor para o mercado focando na experiência do usuário através do desenvolvimento web 🌼
 
 ###### BIO
 
