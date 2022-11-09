@@ -1,4 +1,4 @@
-## Olá, me chamo Letícia 👋
+## Hi there 👋
 __Eu sou uma Desenvolvedora Web Full-Stack, atualmente morando em Pernambuco, Brasil.__
 
 ###### BIO
