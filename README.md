@@ -1,5 +1,15 @@
-### Hi there 👋
-**
+## Olá, me chamo Letícia 👋
+__Eu sou uma Desenvolvedora Web Full-Stack, atualmente morando em Pernambuco, Brasil.__
+
+###### BIO
+
+* 💻 Atualmente estou estudando Desenvolvimento Web na Trybe
+* ⚙️ Estou aprendendo: ```javascript```, ```html```, ```css```, ```react```, ```jest```, ```RTL```,  ```redux```, ```context```, ```java```, ```docker```, ```SQL```, ```POO```
+* 💫 Fun fact: Eu sou uma grande fã de The Last Of Us 
+###### 💬 Me contate: 
+###### [Linkedin](https://www.linkedin.com/in/leticia-augusta/1/) 
+###### [E-mail](leticia.augusta.dev@gmail.com)
+
 <!--
 **Hey-Lets-code/Hey-Lets-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
