@@ -8,7 +8,7 @@ Através da minha ótica neurodivergente e experiências no setor comercial, pos
 * 🌱 Atualmente sou estudante de Desenvolvimento Web na Trybe
 * 💻 Estou aberta para oportunidades de emprego na área de Desenvolvimento Web
 * ⚙️ Estou aprendendo: ```javascript```, ```html```, ```css```, ```react```, ```jest```, ```RTL```,  ```redux```, ```context```, ```java```, ```docker```, ```SQL```, ```POO```
-* 💫 Fun fact: Eu sou uma grande fã de The Last Of Us, mas a Nintendo sempre terá meu coração, pois Zelda sempre será o melhor jogo 😆
+* 💫 Fun fact: Eu sou uma grande fã de The Last Of Us 😆
 ###### 📫 Me contate: 
 ###### [Linkedin](https://www.linkedin.com/in/leticia-augusta/1/) 
 ###### leticia.augusta.dev@gmail.com
