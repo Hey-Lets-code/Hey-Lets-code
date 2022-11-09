@@ -6,7 +6,7 @@ __Eu sou uma Desenvolvedora Web Full-Stack, atualmente morando em Pernambuco, Br
 * 🌱 Atualmente sou estudante de Desenvolvimento Web na Trybe
 * 💻 Estou aberta para oportunidades de emprego na área de Desenvolvimento Web
 * ⚙️ Estou aprendendo: ```javascript```, ```html```, ```css```, ```react```, ```jest```, ```RTL```,  ```redux```, ```context```, ```java```, ```docker```, ```SQL```, ```POO```
-* 💫 Fun fact: Eu sou uma grande fã de The Last Of Us 😆
+* 💫 Fun fact: sou uma grande fã de The Last Of Us 😆
 ###### 📫 Me contate: 
 ###### [Linkedin](https://www.linkedin.com/in/leticia-augusta/1/) 
 ###### leticia.augusta.dev@gmail.com
