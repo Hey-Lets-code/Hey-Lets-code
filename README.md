@@ -8,7 +8,7 @@ __I'm a Full-Stack Web Developer currently living in Pernambuco, Brazil.__
 
 ###### 🎓 Education
 * 📚 Currently pursuing a degree in Computer Science at UFRPE
-* 🌟 Will be completing my degree in Data Science this year
+* 🌟 Will be completing my degree in Data Science in september of 2024
 * 💻 I've completed my studies in Web Development at Trybe
 
 ###### 💼 Experience
