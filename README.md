@@ -2,7 +2,7 @@
 __I'm a Full-Stack Web Developer currently living in Pernambuco, Brazil.__
 
 ###### BIO
-* 🚀 I'm open to opportunities as a Trainee in the areas of Web Development and Data Science
+* 🚀 I'm open to opportunities as a Full-Stack Web Developer.
 * ⚙️ I'm learning: ```python```, ```power BI```, ```java```, ```docker```, ```SQL```, ```POO```
 * 💫 Fun fact: I'm a big fan of The Last Of Us 😆
 
