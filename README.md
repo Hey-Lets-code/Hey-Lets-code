@@ -4,7 +4,7 @@ __I'm a Full-Stack Web Developer currently living in Pernambuco, Brazil.__
 ###### BIO
 * 🚀 Currently working as Junior Developer at Caju Beneficios
 * ⚙️ I'm learning: ```.NET```, ```rabbitMQ```, ```AWS```
-* 💫 Fun fact: I'm a big fan of The Last Of Us 😆
+* 💫 Fun fact: I'm a big fan of The Last Of Us :shipit:
 
 ###### 🎓 Education
 * 📚 Currently pursuing a degree in Computer Science at UFRPE
