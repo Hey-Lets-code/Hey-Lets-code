@@ -1,38 +1,102 @@
-## Hi there 👋
-__I'm a Full-Stack Web Developer currently living in Pernambuco, Brazil.__
+# Hi there 👋
 
-###### BIO
-* 🚀 Currently working as Junior Developer at Caju Beneficios
-* ⚙️ I'm learning: ```.NET```, ```rabbitMQ```, ```AWS```
-* 💫 Fun fact: I'm a big fan of The Last Of Us :shipit:
+I'm Letícia, a Full-Stack Software Engineer.
 
-###### 🎓 Education
-* 📚 Currently pursuing a degree in Computer Science at UFRPE
-* 🌟 Completed degree in Data Science
-* 💻 I've completed my studies in Web Development Full-Stack at Trybe
+I enjoy building web applications, designing APIs, solving business problems through technology, and continuously learning new tools and architectures. My main focus is the Microsoft ecosystem with .NET, while also working across modern frontend, like Angular and React.
 
-###### 💼 Experience
-* 🌐 Joined the 1000devs program for six months, a partnership between Johnson & Johnson and Mettra. This program aims to empower disadvantaged youth by teaching essential soft skills, logical thinking, and Java programming, along with web development training. It was here that I got my first job in the IT field.
-* 👩‍💻 I've worked as employee at Johnson & Johnson MedTech, where I handled IT and Business responsibilities, particularly focused on data-related tasks. My role involved leveraging data to drive business decisions and improve processes. During my time at Johnson & Johnson MedTech, I worked across IT and Business areas with a strong focus on data-driven initiatives. In this role, I performed QA activities, developed internal tables, and helped build a Python script for validating column-based data connected to a web page. I also contributed to development tasks using HTML, CSS, JavaScript, React, and Node.js, webscrapping working closely with the business team to ensure accurate data handling and support decision-making processes.
-* :page_with_curl: I also have experience working with HTML, CSS, JavaScript, React, Node.js, and TypeScript. I completed an internship on a Next.js project that initially used React and Node.js before transitioning to Next.js with TypeScript. The project consisted of building a platform where teachers could create and publish exercises for students based on subjects, offering dedicated interfaces and functionalities for both teachers and students.
-* :arrow_forward: Actually i'm working at Caju Benefícios as a Junior Developer at Caju, I build internal applications using Bubble.io, integrating them with external databases and APIs. I participate in discovery processes to understand business needs and translate them into functional product requirements. In addition to low-code development, I also worked with HTML, CSS, JavaScript, React, and Node.js on an internal client project focused on improving and streamlining operational processes for Caju employees. This included building interfaces, login, user validation, api connections, implementing workflows, and delivering tools to optimize daily activities across different teams.
+## 🚀 About me
 
-###### 📫 Contact me: 
-###### [Linkedin](https://www.linkedin.com/in/leticia-augusta/1/) 
-###### leticia.augusta.dev@gmail.com
+- 💼 Full Stack Developer with 2+ years of experience building web applications and APIs.
+- 💻 Main stack: **.NET, C#, Angular, React and TypeScript**
+- ☁️ Experience with **AWS, Azure and GCP**
+- 🔗 Strong experience designing and consuming **REST APIs**
+- 🐳 Worked with **Docker, Kubernetes and CI/CD pipelines**
+- 🗄️ Experience with **SQL Server, PostgreSQL and MongoDB**
+- 🌱 Currently deepening my knowledge in **Angular, Software Architecture and Cloud**
 
 
-<!--
-**Hey-Lets-code/Hey-Lets-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+
+- .NET
+- ASP.NET Core
+- C#
+- Node.js
+- Python
+
+**Frontend**
+
+- Angular
+- React
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+
+**Databases**
+
+- SQL Server
+- PostgreSQL
+- MongoDB
+
+**Cloud & DevOps**
+
+- Azure
+- AWS
+- Google Cloud Platform
+- Docker
+- Kubernetes
+- Azure DevOps
+- Git
+- CI/CD
+
+**Other**
+
+- REST APIs
+- Microservices
+- RabbitMQ
+- Agile / Scrum
+
+---
+
+## 💼 Experience
+
+I've worked on projects involving:
+
+- Development of Full Stack web applications.
+- REST API development and integrations.
+- Cloud environments (AWS, Azure and GCP).
+- Internal platforms and enterprise applications.
+- Microservices architecture.
+- Performance improvements and bug fixing.
+- CI/CD automation.
+- Frontend modernization projects, including React and Angular.
+- Data-driven solutions using SQL and NoSQL databases.
+
+---
+
+## 🎓 Education
+
+- 🎓 Bachelor’s Degree in Data Science - UNINASSAU
+- Bachelor’s Degree in Computer Science - UFRPE
+- 💻 Full Stack Web Development - Trybe
+- 🚀 1000Devs – Talentos para o Bem (Johnson & Johnson + Mettra) - 6 months intensive program in Java and SQL Projects
+
+---
+
+## 🌎 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Advanced
+- 🇪🇸 Spanish — Intermediate
+- 🇫🇷 French — Learning
+
+---
+
+## 📫 Let's connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/leticia-augusta
+- 📧 Le.augusta.souza@gmail.com
